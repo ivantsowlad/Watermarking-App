@@ -28,13 +28,6 @@ A simple watermarking application built with Python and Tkinter.
     - Add the watermark
     - Save the result
 
-## Example
-
-- Original image:  
-  ![original](example/original.png)
-- Watermarked image:  
-  ![watermarked](example/watermarked.png)
-
 ## Requirements
 
 - Python 3.x
