@@ -37,10 +37,6 @@ A simple watermarking application built with Python and Tkinter.
 
 Pull requests are welcome! Open an issue if you find any bugs or have suggestions.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
 ## Author
 
 - [ivantsowlad](https://github.com/ivantsowlad)
